@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\Week3\AccessDemo\bin\Debug\net6.0\AccessDemo.exe
+C:\Users\awillsea\source\repos\Week3\AccessDemo\bin\Debug\net6.0\AccessDemo.deps.json
+C:\Users\awillsea\source\repos\Week3\AccessDemo\bin\Debug\net6.0\AccessDemo.runtimeconfig.json
+C:\Users\awillsea\source\repos\Week3\AccessDemo\bin\Debug\net6.0\AccessDemo.dll
+C:\Users\awillsea\source\repos\Week3\AccessDemo\bin\Debug\net6.0\AccessDemo.pdb
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\AccessDemo.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\AccessDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\AccessDemo.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\AccessDemo.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\AccessDemo.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\AccessDemo.dll
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\refint\AccessDemo.dll
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\AccessDemo.pdb
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\AccessDemo.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\Week3\AccessDemo\obj\Debug\net6.0\ref\AccessDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\PenSample2.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\PenSample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\PenSample2.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\PenSample2.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\PenSample2.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\Week3\PenSample2\bin\Debug\net6.0\PenSample2.exe
+C:\Users\awillsea\source\repos\Week3\PenSample2\bin\Debug\net6.0\PenSample2.deps.json
+C:\Users\awillsea\source\repos\Week3\PenSample2\bin\Debug\net6.0\PenSample2.runtimeconfig.json
+C:\Users\awillsea\source\repos\Week3\PenSample2\bin\Debug\net6.0\PenSample2.dll
+C:\Users\awillsea\source\repos\Week3\PenSample2\bin\Debug\net6.0\PenSample2.pdb
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\PenSample2.dll
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\refint\PenSample2.dll
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\PenSample2.pdb
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\PenSample2.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\Week3\PenSample2\obj\Debug\net6.0\ref\PenSample2.dll

@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\Lab3.1_Circle_Objects.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\Lab3.1_Circle_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\Lab3.1_Circle_Objects.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\Lab3.1_Circle_Objects.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\Lab3.1_Circle_Objects.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\bin\Debug\net6.0\Lab3.1_Circle_Objects.exe
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\bin\Debug\net6.0\Lab3.1_Circle_Objects.deps.json
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\bin\Debug\net6.0\Lab3.1_Circle_Objects.runtimeconfig.json
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\bin\Debug\net6.0\Lab3.1_Circle_Objects.dll
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\bin\Debug\net6.0\Lab3.1_Circle_Objects.pdb
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\Lab3.1_Circle_Objects.dll
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\refint\Lab3.1_Circle_Objects.dll
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\Lab3.1_Circle_Objects.pdb
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\Lab3.1_Circle_Objects.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\Week3\Lab3.1_Circle_Objects\obj\Debug\net6.0\ref\Lab3.1_Circle_Objects.dll

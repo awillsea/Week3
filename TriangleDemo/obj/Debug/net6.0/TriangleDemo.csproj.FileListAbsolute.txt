@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\bin\Debug\net6.0\TriangleDemo.exe
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\bin\Debug\net6.0\TriangleDemo.deps.json
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\bin\Debug\net6.0\TriangleDemo.runtimeconfig.json
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\bin\Debug\net6.0\TriangleDemo.dll
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\bin\Debug\net6.0\TriangleDemo.pdb
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\TriangleDemo.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\TriangleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\TriangleDemo.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\TriangleDemo.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\TriangleDemo.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\TriangleDemo.dll
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\refint\TriangleDemo.dll
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\TriangleDemo.pdb
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\TriangleDemo.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\Week3\TriangleDemo\obj\Debug\net6.0\ref\TriangleDemo.dll

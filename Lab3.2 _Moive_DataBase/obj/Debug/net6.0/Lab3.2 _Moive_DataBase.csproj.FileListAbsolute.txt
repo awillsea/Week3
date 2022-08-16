@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\bin\Debug\net6.0\Lab3.2 _Moive_DataBase.exe
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\bin\Debug\net6.0\Lab3.2 _Moive_DataBase.deps.json
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\bin\Debug\net6.0\Lab3.2 _Moive_DataBase.runtimeconfig.json
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\bin\Debug\net6.0\Lab3.2 _Moive_DataBase.dll
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\bin\Debug\net6.0\Lab3.2 _Moive_DataBase.pdb
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\Lab3.2 _Moive_DataBase.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\Lab3.2 _Moive_DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\Lab3.2 _Moive_DataBase.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\Lab3.2 _Moive_DataBase.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\Lab3.2 _Moive_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\Lab3.2 _Moive_DataBase.dll
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\refint\Lab3.2 _Moive_DataBase.dll
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\Lab3.2 _Moive_DataBase.pdb
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\Lab3.2 _Moive_DataBase.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\Week3\Lab3.2 _Moive_DataBase\obj\Debug\net6.0\ref\Lab3.2 _Moive_DataBase.dll

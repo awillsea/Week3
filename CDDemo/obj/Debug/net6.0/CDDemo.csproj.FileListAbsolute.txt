@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\Week3\CDDemo\bin\Debug\net6.0\CDDemo.exe
+C:\Users\awillsea\source\repos\Week3\CDDemo\bin\Debug\net6.0\CDDemo.deps.json
+C:\Users\awillsea\source\repos\Week3\CDDemo\bin\Debug\net6.0\CDDemo.runtimeconfig.json
+C:\Users\awillsea\source\repos\Week3\CDDemo\bin\Debug\net6.0\CDDemo.dll
+C:\Users\awillsea\source\repos\Week3\CDDemo\bin\Debug\net6.0\CDDemo.pdb
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\CDDemo.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\CDDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\CDDemo.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\CDDemo.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\CDDemo.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\CDDemo.dll
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\refint\CDDemo.dll
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\CDDemo.pdb
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\CDDemo.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\Week3\CDDemo\obj\Debug\net6.0\ref\CDDemo.dll

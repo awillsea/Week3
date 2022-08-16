@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\bin\Debug\net6.0\ListOfObjects.exe
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\bin\Debug\net6.0\ListOfObjects.deps.json
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\bin\Debug\net6.0\ListOfObjects.runtimeconfig.json
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\bin\Debug\net6.0\ListOfObjects.dll
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\bin\Debug\net6.0\ListOfObjects.pdb
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ListOfObjects.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ListOfObjects.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ListOfObjects.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ListOfObjects.dll
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\refint\ListOfObjects.dll
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ListOfObjects.pdb
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ListOfObjects.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\Week3\ListOfObjects\obj\Debug\net6.0\ref\ListOfObjects.dll

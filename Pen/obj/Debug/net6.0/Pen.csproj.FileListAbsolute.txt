@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\Week3\Pen\bin\Debug\net6.0\Pen.exe
+C:\Users\awillsea\source\repos\Week3\Pen\bin\Debug\net6.0\Pen.deps.json
+C:\Users\awillsea\source\repos\Week3\Pen\bin\Debug\net6.0\Pen.runtimeconfig.json
+C:\Users\awillsea\source\repos\Week3\Pen\bin\Debug\net6.0\Pen.dll
+C:\Users\awillsea\source\repos\Week3\Pen\bin\Debug\net6.0\Pen.pdb
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\Pen.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\Pen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\Pen.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\Pen.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\Pen.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\Pen.dll
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\refint\Pen.dll
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\Pen.pdb
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\Pen.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\Week3\Pen\obj\Debug\net6.0\ref\Pen.dll
